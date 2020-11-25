@@ -6,10 +6,6 @@ permalink: /about/
 
 {% include image.html url="/images/profile.jpg" caption="Kabiru Maitama Kura" width=300 align="right" %}
 
-@settings {
-  font-size: 100;
-}
-
 <div class= "text-justify">
 
 Kabiru Maitama Kura is an Assistant Professor of HRM & Organisational Behaviour at the UTB School of Business, Universiti Teknologi Brunei. His research interests focus workplace deviance, organisational citizenship behaviour, job attitudes, personality and individual differences, green behaviour at work, and leadership. Prior to joining UTB School of Business, he was a Senior Lecturer/Director School of Remedial and Basic Studies, at the Federal Polytechnic Kaura Namoda, Nigeria.
