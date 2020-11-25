@@ -1,5 +1,5 @@
 # Site settings
-title: Your name here
+title: Kabiru Maitama Kura
 general_email: your_general_email@gmail.com
 academic_email: your_academic_email@univ
 
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
-url: "https://kmkura.github.io/index.html" # the base hostname & protocol for your site
+url: "https://kmkura.github.io/" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
 github_username: github_username
