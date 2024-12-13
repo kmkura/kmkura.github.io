@@ -4,13 +4,6 @@ permalink: /research/
 title: Research
 ---
 
-<h2>Publications</h2>
-<ul>
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Publications</title>
 </head>
 <body>
     <h1>Publications</h1>
