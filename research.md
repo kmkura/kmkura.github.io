@@ -4,14 +4,19 @@ permalink: /research/
 title: Research
 ---
 
-Describe your research interests here.
-
 <h2>Publications</h2>
 <ul>
 	<li>
 		<b>"Editorial: Every cloud has a silver lining—COVID-19 and positive work outcomes"</b><br>
 		<i>Kura K M, Shamsudin F M, Ringim K J, AlZgool M </i><br>
-		Frontiers in Psychology, 14, 1-3, 2023<br>
+		Frontiers in Psychology, 14, 1-3, 2023<be>
+		<a href="[your-pdf-link-here](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1173250/pdf)"><div class="color-button">pdf</div></a>
+		<a href="your-cite-link-here"><div class="color-button">cite</div></a>
+		<a href="your-code-link-here"><div class="color-button">code</div></a>
+
+
+
+  
 		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 	<li>
