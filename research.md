@@ -10,10 +10,10 @@ title: Research
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Journal Articles</title>
+    <title>Publications</title>
 </head>
 <body>
-    <h1>Journal Articles</h1>
+    <h1>Publications</h1>
     <ol>
         <li>
             <strong>Smith, J., & Doe, A.</strong> (2020). <em>Exploring organizational behavior</em>. <u>Journal of Management Studies</u>, 45(3), 123-145. 
