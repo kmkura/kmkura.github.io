@@ -143,16 +143,7 @@ title: Research
     <li><strong>Kura, K. M., Shamsudin, F. M., & Chauhan, A. (2013).</strong> Effects of formal organizational control and self-regulatory efficacy on deviant behavior at work. In H. C. Wooi, A. M. Nasurdin & P. L. Kee (Eds.), <em>Proceedings of the 10th Asian Academy of Management International Conference</em> (pp. 378-386). Penang, Malaysia: Asian Academy of Management.</li>
 </ul>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publications and Presentations</title>
-</head>
-<body>
-
-    <h1>Book Chapter Contributions</h1>
+   <h1>Book Chapter Contributions</h1>
     <ul>
         <li><strong>Mashod, H. & Kura, K. M.</strong> (2025). Individual Differences as Determinants of Graduate Employability in Brunei Darussalam. In M. Kayyali & B. Christiansen (Eds.), <i>Insights Into International Higher Education Leadership and the Skills Gap</i> (pp. 209-228). IGI Global. <a href="https://doi.org/10.4018/979-8-3693-3443-0.ch008" target="_blank">Link</a></li>
         <li><strong>Daneji, A. M., Kura, K. M., Bambale, A. J., K/Mata, B. A., Aliyu, A. A., & Hassan, R.</strong> (2024). Disentangling the mediating role of entrepreneurial intention in the relationship between entrepreneurship education and self-employment. In A. Rafiki, B. Alserhan, & K. Bayram (Eds.), <i>Technopreneurship in Small Businesses for Sustainability</i> (pp. 97-117). IGI Global. <a href="https://doi.org/10.4018/979-8-3693-3530-7.ch006" target="_blank">Link</a></li>
