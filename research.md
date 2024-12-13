@@ -32,3 +32,105 @@ title: Research
     </ol>
 </body>
 
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Articles Published in Peer-reviewed Journals</title>
+</head>
+    <ol>
+        <li>
+            Dantsoho, M. A., Ringim, K. J., & Kura, K. M. (2021). 
+            The relationship between Artificial Intelligence (AI) Quality, customer preference, satisfaction and continuous usage intention of e-Banking services. 
+            <em>Indonesian Business Review</em>, 4(1), 24-43.
+        </li>
+        <li>
+            Kura, K. M., & Alkashami, M. (2021). 
+            Employee voice, employee engagement and business performance: Understanding the links in a mediated model. 
+            <em>Annals of Contemporary Developments in Management & HR (ACDMHR)</em>, 3(3), 10-19.
+        </li>
+        <li>
+            Mashod, H., Kura, K. M., & Ringim, K. J. (2020). 
+            Theorizing the boundary condition between psychological capital and graduate employability: Does grit matter? 
+            <em>ETH Learning and Teaching Journal</em>, 2(2), 78–83.
+        </li>
+        <li>
+            Ringim, K. J., Abdullahi, N., & Kura, K. M. (2020). 
+            Impact of supply chain management practices on competitive advantage and performance of Food and Beverages organizations in Brunei Darussalam. 
+            <em>KASU Journal of Supply Chain Management</em>, 1(1), 21-47. 
+            (Publisher: Kaduna State University Press, Nigeria).
+        </li>
+        <li>
+            Muhammed, Y., Ringim, K. J., & Kura, K. M. (2020). 
+            Moderating role of perceived social support on the relationship between entrepreneurship education and entrepreneurial intention. 
+            <em>Journal of Entrepreneurship and Business</em>, 8(1), 104-119. 
+            <a href="https://doi.org/10.17687/JEB.0801.09" target="_blank">https://doi.org/10.17687/JEB.0801.09</a>
+        </li>
+        <li>
+            Abubakar, R. A., K. M. Kura, & Ringim, K. J. (2018). 
+            Total quality management, firm performance, and the moderating role of competitive intensity. 
+            <em>Journal of International Business, Economics and Entrepreneurship</em>, 3(1), 10-20. 
+            (Publisher: Universiti Teknologi MARA, Malaysia).
+        </li>
+        <li>
+            Kura, K. M., Ahmad, T. S., & Kontagora, H. L. (2018). 
+            Predicting dishonest academic behaviors: The role of attitude, subjective norms, perceived behavioral control and moral obligation. 
+            <em>International Journal of Education & Training</em>, 4(1), 1-11. 
+            (Publisher: Faculty of Educational Studies, Universiti Putra Malaysia).
+        </li>
+        <li>
+            Kura, K. M., Abubakar, R. A., & Abubakar, S. (2017). 
+            Entrepreneurial learning and organizational performance: Test of the mediating effects of innovativeness among small and medium enterprises. 
+            <em>Journal of Technology Management and Technopreneurship</em>, 5(1), 51-63. 
+            (Publisher: Universiti Teknikal Malaysia Melaka).
+        </li>
+        <li>
+            Kura, K. M. (2016). 
+            Linking customer relationship management to behavioral intentions in Islamic banking system: Evidence from Nigeria. 
+            <em>Journal of Entrepreneurship and Business</em>, 4(1), 15-35. 
+            (Publisher: Universiti Malaysia Kelantan).
+        </li>
+        <li>
+            Kura, K. M. (2016). 
+            Public service motivation as a driver of employees' eco-initiatives: An exploratory investigation based on Federal Parastatals in Nigeria. 
+            <em>Lapai Journal of Management Studies</em>, 8(1-2), 319-333. 
+            (Publisher: Ibrahim Babaginda University, Lapai, Nigeria).
+        </li>
+        <li>
+            Abubakar, R. A., & Kura, K. M. (2015). 
+            Does gender moderate the relationship between job satisfaction and employee turnover intention? A proposed model. 
+            <em>International Journal of Accounting, Business and Management</em>, 1(1), 1-7. 
+            (Publisher: Financial Training & Management Services).
+        </li>
+        <li>
+            Abubakar, R. A., Chauhan, A., & Kura, K. M. (2015). 
+            Relationship between human resource management practices and employee turnover intention among Registered Nurses in Nigerian Public Hospitals: The mediating role of organizational trust. 
+            <em>Sains Humanika</em>, 5(2), 95-98. 
+            (Publisher: Universiti Teknologi Malaysia).
+        </li>
+        <li>
+            Abubakar, R. A., Chauhan, A., & Kura, K. M. (2014). 
+            Role of demographic variables in predicting turnover intention among Registered Nurses in Nigerian Public Hospitals. 
+            <em>International Journal of Business and Technopreneurship</em>, 4(3), 373-383. 
+            (Publisher: Universiti Malaysia Perlis).
+        </li>
+        <li>
+            Kura, K. M., Shamsudin, F. M., & Chauhan, A. (2014). 
+            Effects of honor codes and classroom justice on students' deviant behavior. 
+            <em>Procedia Social and Behavioural Sciences</em>, 112, 77-86. 
+            (Publisher: Elsevier).
+        </li>
+        <li>
+            Kura, K. M., Shamsudin, F. M., & Chauhan, A. (2013). 
+            Perceived group norms as predictors of deviant behavior at work. 
+            <em>International Business Management</em>, 7(2), 121-126. 
+            <a href="https://doi.org/10.3923/ibm.2013.121.126" target="_blank">https://doi.org/10.3923/ibm.2013.121.126</a>
+        </li>
+    </ol>
+</body>
+
+
