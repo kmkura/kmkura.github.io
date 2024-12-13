@@ -145,5 +145,42 @@ title: Research
 
 </body>
 
+    <h1>Book Chapter Contributions</h1>
+    <ol>
+        <li><strong>Mashod, H. & Kura, K. M.</strong> (2025). Individual Differences as Determinants of Graduate Employability in Brunei Darussalam. In M. Kayyali & B. Christiansen (Eds.), <em>Insights Into International Higher Education Leadership and the Skills Gap</em> (pp. 209-228). IGI Global. <a href="https://doi.org/10.4018/979-8-3693-3443-0.ch008" target="_blank">https://doi.org/10.4018/979-8-3693-3443-0.ch008</a></li>
+        <li><strong>Daneji, A. M., Kura, K. M., Bambale, A. J., K/Mata, B. A., Aliyu, A. A., & Hassan, R.</strong> (2024). Disentangling the mediating role of entrepreneurial intention in the relationship between entrepreneurship education and self-employment. In A. Rafiki, B. Alserhan, & K. Bayram (Eds.), <em>Technopreneurship in Small Businesses for Sustainability</em> (pp. 97-117). IGI Global. <a href="https://doi.org/10.4018/979-8-3693-3530-7.ch006" target="_blank">https://doi.org/10.4018/979-8-3693-3530-7.ch006</a></li>
+        <li><strong>Mashod, H., & Kura, K. M.</strong> (2023). The mediating role of psychological capital resources between Grit and graduate employability. In B. Alareeni et al. (Eds.), <em>Digitalization: Opportunities and Challenges for Business</em> (pp. 325–333). Cham, Springer Nature. <a href="https://doi.org/10.1007/978-3-031-26956-1_32" target="_blank">https://doi.org/10.1007/978-3-031-26956-1_32</a></li>
+        <li><strong>Ibrahim, F., Suhip, H., Kura, K. M., & H. M. Noor, L.</strong> (2022). Exploratory study on user satisfaction of E-HRM: Evidence from Brunei Government Employee Management System (GEMS). In P. Ordóñez de Pablos (Ed.), <em>Handbook of Research on Developing Circular, Digital, and Green Economies in Asia</em> (pp. 243-271). IGI Global. <a href="https://doi.org/10.4018/978-1-7998-8678-5.ch014" target="_blank">https://doi.org/10.4018/978-1-7998-8678-5.ch014</a></li>
+    </ol>
+
+    <h1>Books</h1>
+    <ol>
+        <li><strong>Reni, A., Munir, A., Munizu, M., Phuakkhong, C., Ahmad, N. H., Siddiqui, S. H., & Kura, K. M.</strong> (Eds.). (2019). <em>Advances in Economics, Business, and Management Research (Vol. 92) — Digital Era: Challenges and opportunities on human capital qualities</em>. Amsterdam: Atlantis Press.</li>
+        <li><strong>Kura, K. M.</strong> (2009). <em>Introduction to Modern Business</em>. Zaria: Rock Dove Publishers.</li>
+        <li><strong>Kura, K. M.</strong> (2008). <em>Essentials of Cooperative Field Administration</em>. Zaria: Rock Dove Publishers.</li>
+    </ol>
+
+    <h1>Newspaper Article</h1>
+    <ul>
+        <li><strong>Rosli, R., Basri, A. M., Kura, K. M., & Adenan, R.</strong> (2022, January 29). Adapting UTB's teaching style to promote visionary thinking. <em>The Borneo Bulletin Online</em>. <a href="https://borneobulletin.com.bn/towards-advancing-into-the-future/" target="_blank">https://borneobulletin.com.bn/towards-advancing-into-the-future/</a></li>
+    </ul>
+
+    <h1>Presentations, Workshops, and Keynote Addresses</h1>
+    <ol>
+        <li><strong>Kura, K. M.</strong> (2021, June 26). International Conference on Research and Practices in Science, Technology and Social Sciences (I-CREST 2021), organized by the Centre of Foundation Studies, UiTM Cawangan Selangor Campus Malaysia. [Invited Speaker].</li>
+        <li><strong>Kura, K. M.</strong> (2019, November 13-15). Parallel Sessions [Session Chair: Marketing]. The 1st International Conference on Business, Management and Information Systems (ICBMIS 2019), Universiti Teknologi Brunei, Gadong, Brunei.</li>
+        <li><strong>Kura, K. M.</strong> (2019, 10 October). Concurrent Sessions [Session Chair: Organizational Behaviour and Human Resource Management]. The 13th Asian Academy of Management International Conference (AAMC 2019), Pulau Pinang, Malaysia.</li>
+        <li><strong>Kura, K. M.</strong> (2019, June 27-28). Two-Day Research Workshop on Statistical Modeling Using ADANCO Software [Workshop Facilitator]. A.B.U. Business School, CBN Centre of Excellence, Ahmadu Bello University, Zaria, Nigeria.</li>
+        <li><strong>Kura, K. M.</strong> (2018, 7 October). Parallel Sessions [Session Chair: Human Resource Management]. The 3rd International Conference on Business Management (ICBM 2018), George Town, Malaysia.</li>
+        <li><strong>Kura, K. M.</strong> (2018, 4 November). Pre-Conference Workshop on Statistical Modeling Using PLS-SEM with ADANCO Software [Workshop Facilitator]. The 3rd International Conference on Accounting, Management, and Economics (ICAME 2018), Hasanuddin University, Makassar, Indonesia.</li>
+        <li><strong>Kura, K. M.</strong> (2018, March 2-3). Two-Day Research Workshop on Statistical Modeling Using ADANCO Software [Workshop Facilitator]. Federal College of Education, Kano, Nigeria.</li>
+        <li><strong>Kura, K. M.</strong> (2017, December 22-24). Three-Day Research Workshop on Statistical Modeling Using SPSS and SmartPLS Software [Workshop Facilitator]. Tahir Guest Palace Hotel, Nassarawa, Kano, Nigeria.</li>
+        <li><strong>Kura, K. M.</strong> (2016, January 28-29). Two-day Basic Workshop on Statistical Analysis with SPSS Software [Workshop Facilitator]. Federal Polytechnic Bida, Nigeria.</li>
+        <li><strong>Kura, K. M.</strong> (2014, November 17-18). Two-day intensive Workshop on PLS-SEM with SmartPLS [Workshop Facilitator]. Universiti Utara Malaysia, Sintok, Malaysia.</li>
+    </ol>
+
+</body>
+
+
 
     
