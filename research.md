@@ -24,26 +24,8 @@ title: Research
         <li>Kura, K. M. (2016). Re-examining the relationship between perceived workgroup norms, self-regulatory efficacy, and deviant workplace behavior. <i>African Journal of Economic and Management Studies</i>, 7(3), 379-396. <a href="https://doi.org/10.1108/AJEMS-08-2014-0055" target="_blank">https://doi.org/10.1108/AJEMS-08-2014-0055</a></li>
         <li>Kura, K. M., Shamsuddin, F. M., &amp; Chauhan, A. (2016). Organizational trust as a mediator between perceived organizational support and constructive deviance. <i>International Journal of Business and Society</i>, 17(1), 1-18. <a href="https://publisher.unimas.my/ojs/index.php/IJBS/issue/view/74" target="_blank">Publisher Link</a></li>
     </ol>
-
-    <h2>Articles Published in Other Peer-reviewed Journals</h2>
-    <ol>
-        <li>Dantsoho, M. A., Ringim, K. J., &amp; Kura, K. M. (2021). The relationship between Artificial Intelligence (AI) Quality, customer preference, satisfaction, and continuous usage intention of e-Banking services. <i>Indonesian Business Review</i>, 4(1), 24-43.</li>
-        <li>Kura, K. M., &amp; Alkashami, M. (2021). Employee voice, employee engagement, and business performance: Understanding the links in a mediated model. <i>Annals of Contemporary Developments in Management &amp; HR (ACDMHR)</i>, 3(3), 10-19.</li>
-    </ol>
-</body>
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Articles Published in Peer-reviewed Journals</title>
-</head>
-    <ol>
-        <li>
+<h1>Articles Published in Other Peer-reviewed Journals</h1>
+           <li>
             Dantsoho, M. A., Ringim, K. J., & Kura, K. M. (2021). 
             The relationship between Artificial Intelligence (AI) Quality, customer preference, satisfaction and continuous usage intention of e-Banking services. 
             <em>Indonesian Business Review</em>, 4(1), 24-43.
