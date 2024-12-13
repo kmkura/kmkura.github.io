@@ -113,7 +113,6 @@ title: Research
             <a href="https://doi.org/10.3923/ibm.2013.121.126" target="_blank">https://doi.org/10.3923/ibm.2013.121.126</a>
         </li>
     </ol>
-</body>
 
 <h1>Conference Proceedings</h1>
 
