@@ -7,14 +7,7 @@ title: Research
 <body>
     <h1>Publications</h1>
     <ol>
-       
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Published Works</title>
-</head>
-<body>
+ <body>
     <h1>Published Works Indexed in SCOPUS/Web of Science</h1>
     <ol>
         <li>Kura, K. M., &amp; Abubakar, R. A. (2024). Dataset on a reliability generalization meta-analysis of the Oxford COVID-19 Vaccine Hesitancy Scale. <i>Data in Brief</i>, 54, June 2024, 110451. <a href="https://doi.org/10.1016/j.dib.2024.110451" target="_blank">https://doi.org/10.1016/j.dib.2024.110451</a></li>
