@@ -144,10 +144,8 @@ title: Research
 </ul>
 
 </body>
-
-    <h1>Book Chapter Contributions</h1>
-    <ol>
-        <li><strong>Mashod, H. & Kura, K. M.</strong> (2025). Individual Differences as Determinants of Graduate Employability in Brunei Darussalam. In M. Kayyali & B. Christiansen (Eds.), <em>Insights Into International Higher Education Leadership and the Skills Gap</em> (pp. 209-228). IGI Global. <a href="https://doi.org/10.4018/979-8-3693-3443-0.ch008" target="_blank">https://doi.org/10.4018/979-8-3693-3443-0.ch008</a></li>
+<h1>Book Chapter Contributions</h1>
+          <li><strong>Mashod, H. & Kura, K. M.</strong> (2025). Individual Differences as Determinants of Graduate Employability in Brunei Darussalam. In M. Kayyali & B. Christiansen (Eds.), <em>Insights Into International Higher Education Leadership and the Skills Gap</em> (pp. 209-228). IGI Global. <a href="https://doi.org/10.4018/979-8-3693-3443-0.ch008" target="_blank">https://doi.org/10.4018/979-8-3693-3443-0.ch008</a></li>
         <li><strong>Daneji, A. M., Kura, K. M., Bambale, A. J., K/Mata, B. A., Aliyu, A. A., & Hassan, R.</strong> (2024). Disentangling the mediating role of entrepreneurial intention in the relationship between entrepreneurship education and self-employment. In A. Rafiki, B. Alserhan, & K. Bayram (Eds.), <em>Technopreneurship in Small Businesses for Sustainability</em> (pp. 97-117). IGI Global. <a href="https://doi.org/10.4018/979-8-3693-3530-7.ch006" target="_blank">https://doi.org/10.4018/979-8-3693-3530-7.ch006</a></li>
         <li><strong>Mashod, H., & Kura, K. M.</strong> (2023). The mediating role of psychological capital resources between Grit and graduate employability. In B. Alareeni et al. (Eds.), <em>Digitalization: Opportunities and Challenges for Business</em> (pp. 325–333). Cham, Springer Nature. <a href="https://doi.org/10.1007/978-3-031-26956-1_32" target="_blank">https://doi.org/10.1007/978-3-031-26956-1_32</a></li>
         <li><strong>Ibrahim, F., Suhip, H., Kura, K. M., & H. M. Noor, L.</strong> (2022). Exploratory study on user satisfaction of E-HRM: Evidence from Brunei Government Employee Management System (GEMS). In P. Ordóñez de Pablos (Ed.), <em>Handbook of Research on Developing Circular, Digital, and Green Economies in Asia</em> (pp. 243-271). IGI Global. <a href="https://doi.org/10.4018/978-1-7998-8678-5.ch014" target="_blank">https://doi.org/10.4018/978-1-7998-8678-5.ch014</a></li>
