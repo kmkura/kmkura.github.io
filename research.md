@@ -115,5 +115,35 @@ title: Research
     </ol>
 </body>
 
+<h1>Conference Proceedings</h1>
+
+<h2>Indexed in SCOPUS/Web of Science</h2>
+
+<ul>
+    <li><strong>Idris, R., Shams, S., Kura, K. M., & Yusof, I. (2024).</strong> Residents' attitudes, behavior, and willingness to recycle E-waste in Brunei Darussalam. <em>IOP Conference Series: Earth and Environmental Science, 1303(1), 012038.</em> <a href="https://doi.org/10.1088/1755-1315/1303/1/012038" target="_blank">https://doi.org/10.1088/1755-1315/1303/1/012038</a></li>
+    <li><strong>Kura, K. M., Salleh, N. M., & Nazmudeen, M.S.H. (2019).</strong> Elucidating the Influence of Transformational Leadership on Job Performance: A metaBUS-enabled Meta-Analysis. In Z. Ahmad (Ed.), <em>European Proceedings of Social and Behavioural Sciences EpSBS</em> (pp. 687–693). <a href="https://doi.org/10.15405/epsbs.2020.10.61" target="_blank">https://doi.org/10.15405/epsbs.2020.10.61</a></li>
+    <li><strong>Ringim, K. J., Ibrahim, F., Kura, K. M. (2018).</strong> Application of Hill's strategy development framework on fast food restaurant business in Brunei Darussalam. In F. M. Yamin, N. Hami, E. Eaj, & S. Z. Abu-Bakar (Eds.), <em>Proceedings of the 2nd Conference on Technology and Operations Management (2NDCTOM)</em>: Emerging Issues in Technology and Operations Management in Era of Change: Sintok, Kedah: Universiti Utara Malaysia. [Conference Proceedings Citation Index].</li>
+</ul>
+
+<h2>Non-Indexed Conference Proceedings</h2>
+
+<ul>
+    <li><strong>Kura, K. M., Mohiddin, F., Mashod, H., Shamsudin, F. M., Abubakar, R. A., Ringim, K. J., & Salleh, N. M. (2023).</strong> Reliability Generalization of the Fear of COVID-19 Scale: A Meta-Analysis. In F. W., Woon Lai (Ed.). <em>KnE Social Sciences, 8(20), 573–587.</em> <a href="https://doi.org/10.18502/kss.v8i20.14626" target="_blank">https://doi.org/10.18502/kss.v8i20.14626</a></li>
+    <li><strong>Kura, K. M., Mohiddin, F., Shamsudin, F. M., Abubakar, R. A., & Salleh, N. M. (2023).</strong> Workplace Deviant Behaviours: A Critical Review of the Empirical Literature. In F. W., Woon Lai (Ed.). <em>KnE Social Sciences, 8(20), 505–520.</em> <a href="https://doi.org/10.18502/kss.v8i20.14623" target="_blank">https://doi.org/10.18502/kss.v8i20.14623</a></li>
+    <li><strong>Kura, K. M., Ringim, K. J., Zubair, A. I., & Abubakar, R. A. (2020).</strong> Effect of business development services on the performance of small and medium-sized enterprises in Brunei Darussalam. <em>Proceedings of the 6th International Conference of Accounting, Business, and Economics (ICABEC 2020).</em> Kuala Nerus: Penerbit UMT.</li>
+    <li><strong>A. M. M, Sawara, & Kura, K. M. (2019).</strong> Re-examining the role of service quality dimensions and trust in predicting customer satisfaction in Brunei Postal Services. In M. S. H. Nazmudeen, F. Mohiddin, K. M. Kura, F. Kawi, K. Ismail, S. Wasiuzzaman, I. A. Salihu, L. Su, & F. Ibrahim (Eds.), <em>Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (CBMIS 2019)</em> (pp. 264-278). Bandar Seri Begawan: Universiti Teknologi Brunei.</li>
+    <li><strong>Kura, K. M. & Abubakar, R. A. (2018).</strong> Towards a better understanding of the mechanism linking perceived workload to counterproductive work behavior: Does job dissatisfaction matter? In N. Salahuddin, S. Saad, N. M. Isa, S. H. H. Rani, W. I. M. Fauzi, B. A. M. Kamil, N. Jamaluddin, & M. Jaganathan (Eds.), <em>Proceedings of the 3rd International Conference on Business Management (ICBM 2018).</em> George Town, Universiti Utara Malaysia.</li>
+    <li><strong>Sabiu, M. S., Kura, K. M., & Reni, A. (2019).</strong> Linking Human Resource Management Practices to Organizational Performance in Nigeria Education Sector. In A. Reni, A., A. Munir, M. Munizu, C. Phuakkhong, N. H., Ahmad, S. H., Siddiqui, & K. M. Kura (Eds.), <em>Advances in Economics, Business, and Management Research (Vol. 92)</em> — Digital Era: Challenges and opportunities on human capital qualities (pp. 247-257). Amsterdam: Atlantis Press.</li>
+    <li><strong>Kura, K. M. (2016).</strong> Theory of planned behavior as a model of dishonest academic behaviors among students of Federal Polytechnic Kaura Namoda, Nigeria: A pilot study. In G. P. Ing et al. (Eds.), <em>Proceedings of the 7th International Borneo Business Conference (IBBC 2016)</em> (pp. 225-229). Sabah, Malaysia: Universiti Malaysia Sarawak (UNIMAS) and Universiti Malaysia Sabah (UMS).</li>
+    <li><strong>Kura, K. M. (2016).</strong> Employees' workplace eco-initiatives: The role of public service motivation. In A.P.M. Som et al. (Eds.), <em>Proceedings of the International Social Sciences and Tourism Research Conference - ISSTRC 2016</em> (p. 786). Kuala Terengganu, Malaysia: Universiti Sultan Zainal Abidin (UniSZA).</li>
+    <li><strong>Shamsudin, F. M., Kura, K. M., & Al-Shuaibi, A. S. I. (2014).</strong> Understanding the antecedents of cyber deviance at work: A proposed framework. <em>Proceedings of the 6th International Conference on Education and Information Management (ICEIM-2014).</em> Kuala Lumpur, Malaysia: International Foundation for Research and Development.</li>
+    <li><strong>Kura, K. M., Shamsudin, F. M., & Chauhan, A. (2014).</strong> Discriminant validation of measures of normative controls, self-control, and deviant workplace behavior. <em>Proceedings of the 3rd International Conference on Accounting, Business and Economics (ICABEC 2014).</em> Kuala Terengganu, Malaysia: Universiti Malaysia Terengganu (UMT).</li>
+    <li><strong>Kura, K. M., Shamsudin, F. M., & Chauhan, A. (2014).</strong> Influence of formal organizational control, group norms, self-regulatory efficacy on workplace deviance in the Nigerian universities: Data screening and preliminary analysis. <em>Proceedings of the 7th National Human Resources Management Conference (NHRMC 2014)</em>. Sintok, Malaysia: Universiti Utara Malaysia (UUM).</li>
+    <li><strong>Kura, K. M., Shamsudin, F. M., & Chauhan, A. (2013).</strong> Examining the dimensions of workgroup norms constructs A validation study in the Nigerian education context. In R. Hamid, G. H. Tanakinjal, L. H. Ann, L. L. Majawat (Eds.), <em>Proceedings of the 2nd Applied International Business Conference: Emerging mega-trends in the Asian market</em> (pp. 398-402). Sabah, Malaysia: Universiti Malaysia Sabah, Malaysia.</li>
+    <li><strong>Kura, K. M., Shamsudin, F. M., & Chauhan, A. (2013).</strong> Effects of formal organizational control and self-regulatory efficacy on deviant behavior at work. In H. C. Wooi, A. M. Nasurdin & P. L. Kee (Eds.), <em>Proceedings of the 10th Asian Academy of Management International Conference</em> (pp. 378-386). Penang, Malaysia: Asian Academy of Management.</li>
+</ul>
+
+</body>
+
 
     
